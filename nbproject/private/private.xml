@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/controller/ProdukController.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/view/CardKeranjang.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/view/mainApp.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/view/BukaDetailTransaksi.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/utils/Format.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/model/ProdukModel.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/model/TransaksiInfo.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/utils/KoneksiDB.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/model/Produk.java</file>
+            <file>file:/D:/Document/NetBeansProjects/UAS_PBO/src/toko/model/Transaksi.java</file>
+        </group>
+    </open-files>
+</project-private>
